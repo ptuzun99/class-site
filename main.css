@@ -1,3 +1,38 @@
 body{
-     background:purple;
+     background: cyan;
+
 }
+
+p{
+	font-family: 'Bowlby One', cursive;
+	color: mediumblue;
+	font-size: 50px;
+}
+
+
+h1{
+	font-family: 'Bowlby One', cursive;
+	color: darkorange;
+	font-size: 300px;
+	text-align: center;
+
+}
+
+h2{
+	font-family: 'Bowlby One', cursive;
+	color: limegreen;
+
+
+}
+
+ul{
+	font-family: 'Bowlby One', cursive;
+	color: red;
+	font-size: 50px;
+
+}
+
+li{
+	color: red;
+}
+

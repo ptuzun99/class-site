@@ -1,0 +1,31 @@
+body{
+	background: cyan;
+}
+
+p{
+	font-family: 'Bowlby One', cursive;
+	color: limegreen;
+	font-size: 400px;
+	text-align: center;
+
+
+}
+
+div{
+	width: 200px;
+  height: 200px;
+  background: orange;
+  transition: width 10s;
+  transition-delay: 5s;
+
+
+}	
+
+
+
+
+
+
+
+
+
