@@ -1,5 +1,8 @@
 body{
      background: cyan;
+     background: linear-gradient(-45deg, darkorange, cyan, limegreen);
+	position: relative;
+	animation: 10s ease-in-out infinite;
 
 }
 
@@ -38,7 +41,7 @@ ul{
 
 li{
 	color: red;
-	
+
 }
 
 img{
