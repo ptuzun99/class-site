@@ -7,6 +7,7 @@ p{
 	font-family: 'Bowlby One', cursive;
 	color: mediumblue;
 	font-size: 50px;
+	text-align: center;
 }
 
 
@@ -21,6 +22,8 @@ h1{
 h2{
 	font-family: 'Bowlby One', cursive;
 	color: limegreen;
+	font-size: 80px;
+	text-align: center;
 
 
 }
@@ -36,3 +39,8 @@ li{
 	color: red;
 }
 
+img{
+	width: 600px;
+	height: 550px;
+	text-align: center;
+}
