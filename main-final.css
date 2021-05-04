@@ -1,0 +1,47 @@
+body{
+     background: cyan;
+     background: linear-gradient(-45deg, darkorange, cyan, limegreen);
+	position: relative;
+	animation: 10s ease-in-out infinite;
+
+}
+
+p{
+	font-family: 'Bowlby One', cursive;
+	color: mediumblue;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+h1{
+	font-family: 'Bowlby One', cursive;
+	color: white;
+	font-size: 300px;
+	text-align: center;
+
+}
+
+h2{
+	font-family: 'Bowlby One', cursive;
+	color: white;
+	font-size: 80px;
+	text-align: center;
+
+
+
+}
+
+ul{
+	font-family: 'Bowlby One', cursive;
+	color: mediumblue;
+	font-size: 50px;
+	text-align: center;
+
+}
+
+li{
+	color: mediumblue;
+
+}
+
